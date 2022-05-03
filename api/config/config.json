@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "student",
+    "password": "student",
+    "database": "movies",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "student",
+    "password": "student",
+    "database": "movies",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql11471708",
+    "password": "5R8kHUky4W",
+    "database": "sql11471708",
+    "host": "sql11.freemysqlhosting.net",
+    "port": 3306,
+    "dialect": "mysql",
+    "logging": false
+  }
+}
